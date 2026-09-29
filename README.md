@@ -1,4 +1,4 @@
-# Exam Management System
+<img width="1600" height="804" alt="WhatsApp Image 2026-09-29 at 2 03 17 PM" src="https://github.com/user-attachments/assets/3822a32f-960a-4cc0-a700-2da91ec4bb01" /># Exam Management System
 
 A simple web-based college exam timetable management system built for the ClickInnovate PRMCEAM Assessment – Level 1 (B1).
 
@@ -129,3 +129,23 @@ These accounts are included as sample data for testing.
    * Start time
    * End time
 4. The system valid
+
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/3043f3bb-8e65-4f58-b0ec-d0565e4e7328" />
+<img width="658" height="271" alt="WhatsApp Image 2026-09-29 at 1 57 50 PM" src="https://github.com/user-attachments/assets/143c1ac6-7da3-4626-be6a-968547d17448" />
+<img width="240" height="618" alt="WhatsApp Image 2026-09-29 at 1 57 08 PM" src="https://github.com/user-attachments/assets/e2776762-4113-4f40-9530-291fe22c2191" />
+<img width="1600" height="804" alt="WhatsApp Image 2026-09-29 at 2 03 17 PM" src="https://github.com/user-attachments/assets/7953a6aa-f3f7-4b0a-8b51-418baaf131cd" />
+<img width="1600" height="809" alt="WhatsApp Image 2026-09-29 at 2 03 47 PM" src="https://github.com/user-attachments/assets/77963b23-ccdc-4f02-92a1-3bf61c833dc9" />
+<img width="1600" height="802" alt="WhatsApp Image 2026-09-29 at 2 00 04 PM" src="https://github.com/user-attachments/assets/685d775b-9485-4559-b7fc-ed73a302ebbf" />
+<img width="1600" height="798" alt="WhatsApp Image 2026-09-29 at 2 00 49 PM" src="https://github.com/user-attachments/assets/c61bf772-8cf9-438e-8dc3-a095602eecb4" />
+<img width="1600" height="791" alt="WhatsApp Image 2026-09-29 at 2 01 30 PM" src="https://github.com/user-attachments/assets/4b72ad0d-4fc8-4b8b-8c53-8955995a3de0" />
+<img width="1600" height="797" alt="WhatsApp Image 2026-09-29 at 2 01 55 PM" src="https://github.com/user-attachments/assets/ee0d5719-f118-450e-a385-3e53c4d5e9a1" />
+<img width="1600" height="801" alt="WhatsApp Image 2026-09-29 at 2 02 06 PM" src="https://github.com/user-attachments/assets/f1655b73-8287-49d1-b930-da17dc043b71" />
+<img width="1600" height="801" alt="WhatsApp Image 2026-09-29 at 2 02 06 PM" src="https://github.com/user-attachments/assets/b0c759de-3ac9-453a-8435-ae48e54d331c" />
+
+
+
+
+
+
+
+
