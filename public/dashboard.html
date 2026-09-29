@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Dashboard - Exam Management System</title>
+
+  <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <nav class="navbar">
+
+    <div class="logo">
+      Exam Management System
+    </div>
+
+    <button
+      id="logoutButton"
+      class="button small"
+    >
+      Logout
+    </button>
+
+  </nav>
+
+
+  <main class="dashboard">
+
+    <div class="dashboard-header">
+
+      <div>
+
+        <h1 id="welcome">
+          Dashboard
+        </h1>
+
+        <p id="userInfo" class="muted"></p>
+
+      </div>
+
+    </div>
+
+
+    <!-- ADMIN DASHBOARD -->
+
+    <section id="adminDashboard" class="hidden">
+
+      <div class="card">
+
+        <h2>Add Exam</h2>
+
+        <form id="examForm">
+
+          <div class="form-grid">
+
+            <div>
+
+              <label for="subject">
+                Subject Name
+              </label>
+
+              <input
+                type="text"
+                id="subject"
+                required
+              >
+
+            </div>
+
+
+            <div>
+
+              <label for="examYear">
+                Academic Year
+              </label>
+
+              <select id="examYear" required>
+
+                <option value="">
+                  Select year
+                </option>
+
+                <option value="1">
+                  First Year
+                </option>
+
+                <option value="2">
+                  Second Year
+                </option>
+
+                <option value="3">
+                  Third Year
+                </option>
+
+                <option value="4">
+                  Fourth Year
+                </option>
+
+              </select>
+
+            </div>
+
+
+            <div>
+
+              <label for="examSection">
+                Section
+              </label>
+
+              <input
+                type="text"
+                id="examSection"
+                placeholder="Example: A"
+                required
+              >
+
+            </div>
+
+
+            <div>
+
+              <label for="examDate">
+                Exam Date
+              </label>
+
+              <input
+                type="date"
+                id="examDate"
+                required
+              >
+
+            </div>
+
+
+            <div>
+
+              <label for="startTime">
+                Start Time
+              </label>
+
+              <input
+                type="time"
+                id="startTime"
+                required
+              >
+
+            </div>
+
+
+            <div>
+
+              <label for="endTime">
+                End Time
+              </label>
+
+              <input
+                type="time"
+                id="endTime"
+                required
+              >
+
+            </div>
+
+          </div>
+
+
+          <button
+            type="submit"
+            class="button"
+          >
+            Add Exam
+          </button>
+
+        </form>
+
+
+        <p id="examMessage" class="message"></p>
+
+      </div>
+
+
+      <div class="card">
+
+        <h2>All Exams</h2>
+
+        <div id="adminExamList"></div>
+
+      </div>
+
+    </section>
+
+
+    <!-- STUDENT DASHBOARD -->
+
+    <section id="studentDashboard" class="hidden">
+
+      <div class="card">
+
+        <h2>My Exam Timetable</h2>
+
+        <p id="studentClass" class="muted"></p>
+
+        <div id="studentExamList"></div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <script src="dashboard.js"></script>
+
+</body>
+</html>
