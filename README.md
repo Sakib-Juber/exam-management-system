@@ -128,7 +128,7 @@ These accounts are included as sample data for testing.
    * Exam date
    * Start time
    * End time
-4. The system valid
+4. The system validates the entered exam details and creates the timetable entry if all required fields are valid.
 
 ### Project folder/ file structure
 <img width="240" height="618" alt="WhatsApp Image 2026-09-29 at 1 57 08 PM" src="https://github.com/user-attachments/assets/e2776762-4113-4f40-9530-291fe22c2191" />
